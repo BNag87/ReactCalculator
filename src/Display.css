@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+.Display {
+    
+    font-family: 'Orbitron', sans-serif;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background: black;
+    height: 20%;
+    color: yellow;
+    font-size: 34px;
+    border-style: inset;
+    border-color: gray;
+}
